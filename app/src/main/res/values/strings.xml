@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">build IT Check-in App</string>
+    <string name="redidPrompt">Enter your ID Number</string>
+    <string name="submit">Next</string>
+    <string name="config">Configuration</string>
+    <string name="keyboardHint">Tap to show keyboard</string>
+    <string name="start">Start</string>
+    <string name="title_action_list">Actions</string>
+    <string name="title_action_detail">Action Detail</string>
+    <string name="title_activity_landing1">User Interface</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
